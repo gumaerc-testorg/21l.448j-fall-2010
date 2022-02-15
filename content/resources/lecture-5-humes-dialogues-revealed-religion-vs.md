@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Hume''s Dialogues: Revealed Religion vs. Empirically-Based Religion'
 uid: ff9663b0-5076-cabf-d4a4-b2311eaf1872

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Naturalism and Utopia: Samuel Butler''s "Erewhon"'
 uid: d2e5cc58-e7bc-5660-7ec0-d55c5f42bfe5
