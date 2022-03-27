@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: H. G. Wells "The Time Machine" and The Final Utopia'
 uid: 1ef0a0e0-6c6b-9d63-0b9a-87bc354adfa3
 video_files:

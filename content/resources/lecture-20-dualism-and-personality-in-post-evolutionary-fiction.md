@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Dualism and Personality in Post-Evolutionary Fiction'
 uid: bf0e4eaf-3fb7-a1a2-0033-2af11dcb0362
 video_files:
