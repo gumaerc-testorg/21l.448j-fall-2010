@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -36,3 +37,6 @@ video_metadata:
 8.  Phylogeny
 
 **Instructor:** Prof. James Paradis
+
+
+

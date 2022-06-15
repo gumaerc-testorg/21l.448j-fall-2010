@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -33,3 +34,6 @@ video_metadata:
 5.  An increasingly automated world
 
 **Instructor:** Prof. James Paradis
+
+
+
