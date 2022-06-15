@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides information on the course textbooks, additional
+  texts, and the schedule of readings by lecture topic.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: ca8dc59f-27ed-e656-2f96-1bef967c92c8
 ---
-
 The materials in this course offer a mixture of discursive and narrative texts dealing with a variety of evolutionary issues. In this class, we read what many thinkers and writers have had to say about one of the great human questions: how the realm we call nature defines our existence. Your reading and discussion of authors who have considered this question will help provide you with a historical foundation for understanding a rich literary tradition, as well as many assumptions held by people in many contemporary cultures. There will be about 100 pages of weekly readings – sometimes less, sometimes more.
 
 ### Textbooks
@@ -29,7 +31,7 @@ Stevenson, R. L. _The Strange Case of Dr. Jekyll and Mr. Hyde_. W. W. Norton & C
 
 Wells, H. G. _The Time Machine_. CreateSpace, 2009. ISBN: 9781442146327.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730112) Wiener, N. _God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion_. MIT Press, 1966. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]
+![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. _God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion_. MIT Press, 1966. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]
 
 Gibson, W. _Neuromancer_. Ace Hardcover, 2004. ISBN: 9780441012039.
 
@@ -47,58 +49,33 @@ Huxley, T. H. _Evolution and Ethics_. Appleton, 1916.
 
 Darwin, C. _The Descent of Man_. CreateSpace, 2010. ISBN: 9781450520393.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction: Wordsworth's _Tintern Abbey_ and the idea of design in nature.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-1\. _Wordsworth's "[Lines composed a few miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798](http://www.gradesaver.com/wordsworths-poetical-works/study-guide/section5/)", with an excellent commentary and additional images_
-
-2\. [_Some background on travel, tourism and Wordsworth's poem_](http://www.wwnorton.com/college/english/nael/romantic/topic_1/welcome.htm)
-
-3\. [_Design, the adaptation of means to ends_](http://www.answers.com/topic/design?cat=biz-fin)_, is a hard concept to pin down, given its many contexts. Here are some dictionary definitions and other discussions_
-
+1\. _Wordsworth's "_[_Lines composed a few miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798_](http://www.gradesaver.com/wordsworths-poetical-works/study-guide/section5/)_", with an excellent commentary and additional images_   
+2\. [_Some background on travel, tourism and Wordsworth's poem_](http://www.wwnorton.com/college/english/nael/romantic/topic_1/welcome.htm)   
+3\. [_Design, the adaptation of means to ends_](http://www.answers.com/topic/design?cat=biz-fin)_, is a hard concept to pin down, given its many contexts. Here are some dictionary definitions and other discussions_   
 4\. [_A useful Wikipedia segment on design_](http://en.wikipedia.org/wiki/Design)
 
-5\. _Poet Robert Frost's poem titled "[Design](http://www.starve.org/teaching/intro-poetry/design.html)." How do his ideas of design in nature compare with Wordsworth's?_
+5\. _Poet Robert Frost's poem titled "_[_Design_](http://www.starve.org/teaching/intro-poetry/design.html)_." How do his ideas of design in nature compare with Wordsworth's?_
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Carroll, _Alice's Adventures in Wonderland_. The fantasy world of anti–design.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Carroll, L. Chapters 1–5, 7–9 and 11–12 in _Alice's Adventures in Wonderland_. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with [Google Books](http://books.google.com/books?id=HJ8Wg0u7CUgC&pg=PP1#v=onepage)\]
-
+Carroll, L. Chapters 1–5, 7–9 and 11–12 in _Alice's Adventures in Wonderland_. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with [Google Books](http://books.google.com/books?id=HJ8Wg0u7CUgC&pg=PP1#v=onepage)\]    
+    
 1\. _Carroll's_ [_Alice's Adventures in Wonderland_](http://www.alice-in-wonderland.net/)
 
 ### Some reading topics
@@ -111,24 +88,14 @@ Carroll, L. Chapters 1–5, 7–9 and 11–12 in _Alice's Adventures in Wonderla
 
 4\. _Why is Alice always trying to work out what the rules of Wonderland are? Is she successful?_
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 _Genesis_; Aristotle, selections from the _Physics_. Pattern recognition, narrative and analytical, in nature in the ancient world.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-_The Holy Bible: The Book of Genesis_. First 3 sections. St. Anthony Guild Press, 1948.
-
-1\. [_Genesis, from King James Bible_](http://www.bartleby.com/108/01/)
-
+_The Holy Bible: The Book of Genesis_. First 3 sections. St. Anthony Guild Press, 1948.     
+1\. [_Genesis, from King James Bible_](http://www.bartleby.com/108/01/)   
 2\. [_World's creation myths_](http://www.magictails.com/creationlinks.html)
 
 3\. [_Discussion of science and faith_](http://www.biblemetaphors.com/metaphors7.html)
@@ -163,29 +130,19 @@ Aristotle. _Physics_. Book II. Oxford University Press, 2008. ISBN: 978019954028
 
 5\. _How does the idea of design apply to the world of Genesis? Wonderland? Aristotle's Physics?_
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Voltaire, _Candide_. The Accidental World.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Voltaire. Chapters 1–7, 13–21, and 25–30 in _Candide_. Prestwick House, Inc., 2006.  ISBN: 9781580491624. \[Preview with [Google Books](http://books.google.com/books?id=1_ym4uzBlwAC&pg=PP1#v=onepage)\]
-
-1\. [_Candide_](http://www.sondheimguide.com/Candide/novel.html)
-
+Voltaire. Chapters 1–7, 13–21, and 25–30 in _Candide_. Prestwick House, Inc., 2006.  ISBN: 9781580491624. \[Preview with [Google Books](http://books.google.com/books?id=1_ym4uzBlwAC&pg=PP1#v=onepage)\]     
+1\. [_Candide_](http://www.sondheimguide.com/Candide/novel.html)  
 2\. [_Notes on Candide_](http://www.jstor.org/stable/40244764)
 
-4\. [_An important design distinction between adaptationism and Panglossianism_](http://www.everything2.com/index.pl?node_id=1428543)
+3\. [_An important design distinction between adaptationism and Panglossianism_](http://www.everything2.com/index.pl?node_id=1428543)
 
-5\. [_A technical exploration of the meaning of "Panglossian" adaptation in evolutionary biology_](http://lists.extropy.org/pipermail/paleopsych/2006-January/004847.html)
+4\. [_A technical exploration of the meaning of "Panglossian" adaptation in evolutionary biology_](http://lists.extropy.org/pipermail/paleopsych/2006-January/004847.html)
 
 ### Some reading topics
 
@@ -201,24 +158,14 @@ Voltaire. Chapters 1–7, 13–21, and 25–30 in _Candide_. Prestwick House, In
 
 6\. _What is the significance of Eldorado in Candide? The garden_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Hume, _Dialogues Concerning Natural Religion_: Three theories of world origins.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Hume, D. _Dialogues Concerning Natural Religion_. Preface and Parts 1–5. Penguin, 1990. ISBN: 9780140445367.
-
-1. [_Hume's Dialogues_](https://www3.nd.edu/~jspeaks/courses/mcgill/201/winter2005/Hume-Dialogues.html)
-
+Hume, D. _Dialogues Concerning Natural Religion_. Preface and Parts 1–5. Penguin, 1990. ISBN: 9780140445367.   
+1\. [_Hume's Dialogues_](https://www3.nd.edu/~jspeaks/courses/mcgill/201/winter2005/Hume-Dialogues.html)  
 2\. [_A comprehensive website on David Hume_](https://davidhume.org/)_, with texts and excerpts of his main works_
 
 3\. [_Hume's famous statement on miracles_](http://www.fordham.edu/halsall/mod/hume-miracles.html)
@@ -239,33 +186,21 @@ Hume, D. _Dialogues Concerning Natural Religion_. Preface and Parts 1–5. Pengu
 
 5\. _Is Cleanthes' argument about the eye in Part III convincing? Why_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Hume, _Dialogues_, cont. Is the world a Rube Goldberg machine?
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Hume, D. _Dialogues Concerning Natural Religion_. Parts 7, and 10–11. Penguin, 1990. ISBN: 9780140445367.
-
-1\. _Short paper on natural catastropies and their costs_
-
+Hume, D. _Dialogues Concerning Natural Religion_. Parts 7, and 10–11. Penguin, 1990. ISBN: 9780140445367.     
+1\. _Short paper on natural catastropies and their costs_    
 _Rube Goldberg, Self–Operating Napkin._
 
 ### Some reading topics
 
 1\. _Compare and contrast Philo's example of the ship and carpenter (Part 5) with Cleanthes' example of the great wonderful machine of the universe (Part 2)_.
 
-2\. _What might Wordsworth have said to Philo's suggestion in Part 5 that the world may be the first rude essay of some infant deity_
-
-_who was ashamed of his job and ran away? What might Aristotle have said_?
+2\. _What might Wordsworth have said to Philo's suggestion in Part 5 that the world may be the first rude essay of some infant deity who was ashamed of his job and ran away? What might Aristotle have said_?
 
 3\. _What problem does Philo's vegetative world model solve (Part 7)_?
 
@@ -273,24 +208,14 @@ _who was ashamed of his job and ran away? What might Aristotle have said_?
 
 5\. _What are Philo's four circumstances of evil? (Chapter 11). Is the world a Rube Goldberg Machine_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Paley, _Natural Theology_: Intelligent Design Theory.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Paley, W. _Natural Theology_. Oxford University Press, 2008, pp. 5–15, 22, 26–27, and 35–44. ISBN: 9780199535750.
-
-1\. [_Paley's Natural Theology_](http://tinyurl.com/yhb6geq)
-
+Paley, W. _Natural Theology_. Oxford University Press, 2008, pp. 5–15, 22, 26–27, and 35–44. ISBN: 9780199535750.     
+1\. [_Paley's Natural Theology_](http://tinyurl.com/yhb6geq)  
 2\. [_William Paley—general background_](https://www.britannica.com/biography/William-Paley)
 
 3\. [_A major pro–intelligent design website_](http://www.intelligentdesignnetwork.org/)
@@ -303,7 +228,7 @@ Paley, W. _Natural Theology_. Oxford University Press, 2008, pp. 5–15, 22, 26�
 
 7\. [_An evolutionary account of the development of the bacterial flagellum, previously thought irreducibly complex_](http://sciencenow.sciencemag.org/cgi/content/full/2007/417/3)
 
-8\. [A Primer on the Anthropic Principle](http://www.anthropic-principle.com/primer.html)
+8\. [_A Primer on the Anthropic Principle_](http://www.anthropic-principle.com/primer.html)
 
 ### Some reading topics
 
@@ -317,24 +242,14 @@ Paley, W. _Natural Theology_. Oxford University Press, 2008, pp. 5–15, 22, 26�
 
 5\. _Does the parallel structure of animals pose any special problem for Paley's argument_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Adam Smith, _Wealth of Nations_: Self–Organized Complexity?
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Smith, A. Book 1, Chapters 1–3; Book 3, Chapter 4 in _The Wealth of Nations_. CreateSpace, 2009. ISBN: 9781442147928.
-
-1\. [_Adam Smith's Wealth of Nations_](http://www.econlib.org/library/Smith/smWN.html)
-
+Smith, A. Book 1, Chapters 1–3; Book 3, Chapter 4 in _The Wealth of Nations_. CreateSpace, 2009. ISBN: 9781442147928.     
+1\. [_Adam Smith's Wealth of Nations_](http://www.econlib.org/library/Smith/smWN.html)  
 2\. [_Economics as an expression of evolutionary principles_](http://www.themeister.co.uk/economics/evolutionary_economics.htm)
 
 3\. [_Short discussion by Helen Joyce of Smith's invisible hand theory_](http://plus.maths.org/issue14/features/smith/)
@@ -353,24 +268,14 @@ Smith, A. Book 1, Chapters 1–3; Book 3, Chapter 4 in _The Wealth of Nations_. 
 
 6\. _What is Smith's conclusion concerning the role of the economy in the progress of nations_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Malthus, _An Essay on the Principle of Population_: Compound Interest in the biological realm.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Malthus, T. Preface, Chapters 1–3, and 9 in _An Essay on the Principle of Population_. Oxford University Press, 2008. ISBN: 9780199540457.
-
-1. [_Principle of Population_](http://www.econlib.org/Library/Malthus/malPop.html)
-
+Malthus, T. Preface, Chapters 1–3, and 9 in _An Essay on the Principle of Population_. Oxford University Press, 2008. ISBN: 9780199540457.     
+1. [_Principle of Population_](http://www.econlib.org/Library/Malthus/malPop.html)  
 2\. [_A brief but useful website for understanding Thomas Malthus_](http://desip.igc.org/malthus/)
 
 3\. [_A real–time world population counter_](http://www.worldpopulationbalance.org/)
@@ -397,19 +302,11 @@ _\[Read chapters 1–3, chapter 9.\]_
 
 3\. _Malthus introduces the term Struggle for Existence in Chapter 3. How does this term apply to his system? Is it used in any way that suggests evolutionary process_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Malthus, _Principle of Population_.
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Malthus, T. Chapters 13–14, and 18–19 in _An Essay on the Principle of Population_. Oxford University Press, 2008. ISBN: 9780199540457.
 
@@ -421,29 +318,19 @@ _\[Read chapters 13, 14, 18–19\]_
 
 2\. _In Chapter 18, Malthus suggests that the human mind arises out of the misery of the human condition. Do you agree? Why_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Darwin, _On the Origin of Species_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Darwin, C. Chapters 1, 2 and 3 in _On the Origin of Species_. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with [Google Books](http://books.google.com/books?id=8iCFDk51b70C&pg=PA1#v=onepage)\]
-
-1\. [_Charles Darwin, On the Origin of Species_](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)
-
+Darwin, C. Chapters 1, 2 and 3 in _On the Origin of Species_. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with [Google Books](http://books.google.com/books?id=8iCFDk51b70C&pg=PA1#v=onepage)\]     
+1\. [_Charles Darwin, On the Origin of Species_](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)  
 2\. [_Excellent short biographical sketch of Darwin_](http://www.biography.com/people/charles-darwin-9266433#death-and-legacy)
 
-3\. [The Complete Work of Charles Darwin Online](http://darwin-online.org.uk/)
+3\. [_The Complete Work of Charles Darwin Online_](http://darwin-online.org.uk/)
 
-4\. [Biology and Evolutionary Theory](http://www.talkorigins.org/origins/faqs-evolution.html)
+4\. [_Biology and Evolutionary Theory_](http://www.talkorigins.org/origins/faqs-evolution.html)
 
 5\. [_Summary of Lamarckian evolution_](http://www.ucmp.berkeley.edu/history/lamarck.html)
 
@@ -461,22 +348,13 @@ Darwin, C. Chapters 1, 2 and 3 in _On the Origin of Species_. Greenwood Press, 2
 
 5\. _How is Natural Selection like Artificial Selection? How is it different_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Darwin, _Origin_ (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Darwin, C. Chapters 4 and 5 in _On the Origin of Species_. Greenwood Press, 2006. ISBN: 9780313317484.
-
+Darwin, C. Chapters 4 and 5 in _On the Origin of Species_. Greenwood Press, 2006. ISBN: 9780313317484.     
 1\. [_Sexual selection_](http://www.stanford.edu/group/stanfordbirds/text/essays/Sexual_Selection.html)
 
 ### Some reading topics
@@ -491,25 +369,15 @@ Darwin, C. Chapters 4 and 5 in _On the Origin of Species_. Greenwood Press, 2006
 
 5\. _What does the Darwinian Natura non facit saltum refer to? (p. 194). Are there any problems with this idea_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Darwin, _Origin_ (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-1\. [_Darwin's taxonomy chart in the Origin_](http://tinyurl.com/52v6dn)
-
-_Chapter 7 (Instinct), Chapter 10 (Geological Succession, Appearance of New Species, Disappearance of Species), Chapter 13 (The Natural System, Morphology, Embryology), Chapter 14 (Summary). \[CD\]_
-
-1\. [_An excellent summary of geological periods illustrating the extreme age of the earth_](http://universe-review.ca/R10-19-animals.htm)
+1\. [_Darwin's taxonomy chart in the Origin_](http://tinyurl.com/52v6dn)     
+_Chapter 7 (Instinct), Chapter 10 (Geological Succession, Appearance of New Species, Disappearance of Species), Chapter 13 (The Natural System, Morphology, Embryology), Chapter 14 (Summary). \[CD\]_   
+2\. [_An excellent summary of geological periods illustrating the extreme age of the earth_](http://universe-review.ca/R10-19-animals.htm)
 
 ### Some reading topics:
 
@@ -521,24 +389,14 @@ _Chapter 7 (Instinct), Chapter 10 (Geological Succession, Appearance of New Spec
 
 4\. _In what ways does Embryology support Darwin's views_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Darwin, _Descent of Man_ (selections)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Darwin, C. Chapter 1 in _The Descent of Man_. CreateSpace, 2010. ISBN: 9781450520393.
-
-1\. [_Descent of Man, 2nd edition (1874)_](http://psychclassics.yorku.ca/Darwin/Descent/descent1.htm)
-
+Darwin, C. Chapter 1 in _The Descent of Man_. CreateSpace, 2010. ISBN: 9781450520393.     
+1\. [_Descent of Man, 2nd edition (1874)_](http://psychclassics.yorku.ca/Darwin/Descent/descent1.htm)  
 2\. [_Films and illustrations of various prehistoric and modern hominoid forms_](http://wilderdom.com/evolution/HumanEvolutionLinks.htm)
 
 3\. _Prehistoric fiction_ ([Websites](http://www.trussel.com/f_prehis.htm#Types), [bibliography](http://www.trussel.com/prehist/prehist1.htm))
@@ -549,24 +407,14 @@ Darwin, C. Chapter 1 in _The Descent of Man_. CreateSpace, 2010. ISBN: 978145052
 
 2\. _What methods do humans have to complement evolutionary development_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Butler, _Erewhon_ or _Over the Range_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Butler, S. Chapters 1, 7, 9–12, 15, and 17 in _Erewhon_. Indypublish, 2008. ISBN: 9781437833966.
-
-1\. [Utopias in America](https://www.nps.gov/articles/utopias-in-america.htm)
-
+Butler, S. Chapters 1, 7, 9–12, 15, and 17 in _Erewhon_. Indypublish, 2008. ISBN: 9781437833966.     
+1\. [_Utopias in America_](https://www.nps.gov/articles/utopias-in-america.htm)  
 2\. [_Utopia_](http://en.wikipedia.org/wiki/Utopia)
 
 3\. [_The question of social Darwinism. Was Darwin a social Darwinist? Was Butler_](http://wikis.evergreen.edu/civicintelligence/index.php/Social_Darwinism)_?_
@@ -575,8 +423,7 @@ Butler, S. Chapters 1, 7, 9–12, 15, and 17 in _Erewhon_. Indypublish, 2008. IS
 
 5\. [_Image archive about eugenics in America_](http://www.eugenicsarchive.org/eugenics/list3.pl)
 
-6\. _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Evolutionary art (PDF - 5.12MB)](http://www.cs.bham.ac.uk/~rjh/courses/NatureInspiredDesign/2009-10/StudentWork/Group4/EvoArt.pdf)  
-_
+6\. [_Evolutionary art (PDF - 5.12MB)_](http://www.cs.bham.ac.uk/~rjh/courses/NatureInspiredDesign/2009-10/StudentWork/Group4/EvoArt.pdf)
 
 ### Some reading topics
 
@@ -590,24 +437,14 @@ _
 
 5\. _In what way does evolution contribute to the world view of Erewhon_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Butler, _Erewhon_ (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Butler, S. Chapters 23–25 in _Erewhon_. IndyPublish, 2008. ISBN: 9781437833966.
-
-1\. [_The evolution of machines: The golem project for the automatic design and manufacture of life forms_](http://www.demo.cs.brandeis.edu/golem/)
-
+Butler, S. Chapters 23–25 in _Erewhon_. IndyPublish, 2008. ISBN: 9781437833966.     
+1\. [_The evolution of machines: The golem project for the automatic design and manufacture of life forms_](http://www.demo.cs.brandeis.edu/golem/)  
 2\. [_Self–replicating robots_](http://web.archive.org/web/20120710154517/http://www.jyi.org/news/nb.php?id=369)
 
 3\. _On the concept of evolutionary robotics_
@@ -624,29 +461,19 @@ Butler, S. Chapters 23–25 in _Erewhon_. IndyPublish, 2008. ISBN: 9781437833966
 
 5\. _Is Butler's argument about machine evolution plausible_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Wiener, _God and Golem, Inc._ (selections)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730112) Wiener, N. _God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion_. MIT Press, 1966, pp. 1–69. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]
-
-1\. [_Photos of Norbert Wiener_](http://www-history.mcs.st-and.ac.uk/PictDisplay/Wiener_Norbert.html)
-
+![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. _God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion_. MIT Press, 1966, pp. 1–69. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]     
+1\. [_Photos of Norbert Wiener_](http://www-history.mcs.st-and.ac.uk/PictDisplay/Wiener_Norbert.html)  
 2\. [_Short article on Wiener_](http://www.britannica.com/eb/article-9076934/Norbert-Wiener).
 
 3\. [_Definition of Cybernetics_](http://www.pangaro.com/published/cyber-macmillan.html)
 
-4. [_Evolutionary systems and artificial life_](https://www.informatics.indiana.edu/rocha/publications/alife.html).
+4\. [_Evolutionary systems and artificial life_](https://www.informatics.indiana.edu/rocha/publications/alife.html).
 
 5\. [_Cybernetic ethics_](http://www.evolutionaryethics.com/).
 
@@ -658,7 +485,7 @@ Wiener, _God and Golem, Inc._ (selections)
 
 9\. [_Translation of Johann Wolfgang von Goethe's poem, "The Sorcerer's Apprentice"_](https://germanstories.vcu.edu/goethe/zauber_e4.html)
 
-_10\. [A useful thread about Baldwinian evolution compared to Lamarckian evolution](http://users.ecs.soton.ac.uk/harnad/Hypermail/Cognition.Sociobiology.98/0100.html)_
+10\. [_A useful thread about Baldwinian evolution compared to Lamarckian evolution_](http://users.ecs.soton.ac.uk/harnad/Hypermail/Cognition.Sociobiology.98/0100.html)
 
 ### _Some reading topics_
 
@@ -672,22 +499,13 @@ _10\. [A useful thread about Baldwinian evolution compared to Lamarckian evoluti
 
 5\. _Are there purposes expressed by technological operations that conflict with human purposes? (pp. 64–65)_.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Turing and Searle Essays on computers and evolutionary issues.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-1\. _Online version of Turing's key Mind paper_, "[Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)"
-
+1\. _Online version of Turing's key Mind paper_, "[Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)"   
 2\. [_A short biography of Alan Turing_](http://www.turing.org.uk/bio/index.html)
 
 3\. [_John Searle's paper, "Minds, Brains, and Programs"_](http://dx.doi.org/10.1017/S0140525X00005756)
@@ -702,27 +520,18 @@ Turing and Searle Essays on computers and evolutionary issues.
 
 8\. [_Talk with Eliza - a friend you could never have before_](http://www-ai.ijs.si/eliza/eliza.html)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Stevenson, _The Strange Case of Dr. Jekyll and Mr. Hyde_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-1\. [_Stevenson's book_](https://www.gutenberg.org/files/43/43-h/43-h.htm)
-
+1\. [_Stevenson's book_](https://www.gutenberg.org/files/43/43-h/43-h.htm)   
 2\. [_An excellent centenary exhibition and brief summary of Stevenson's life given at the university of South Carolina_](http://www.sc.edu/library/spcoll/britlit/rls/rls1.html)_. See especially Island 6 of the exhibition, which deals with J&H_
 
 3\. [_A website specializing in Stevenson_](http://dinamico.unibg.it/rls/rls.htm)
 
-_4\. [Concepts of degeneration](http://www.answers.com/topic/degeneration?cat=health)_
+_4._ [_Concepts of degeneration_](http://www.answers.com/topic/degeneration?cat=health)
 
 5\. [_Section on reversion from Darwin's Variation of Animals and Plants under Domestication_](http://tinyurl.com/yazg87v)
 
@@ -740,24 +549,14 @@ _4\. [Concepts of degeneration](http://www.answers.com/topic/degeneration?cat=he
 
 5\. _What is the implication of the fact that a mere drug separates Jekyll from Hyde_?
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Huxley, _Prolegomena to Evolution and Ethics_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Huxley, T. H. _Evolution and Ethics_. Appleton, 1916, pp. 1–45.
-
-1\. [_Prolegomena to Evolution and Ethics, 1894_](http://aleph0.clarku.edu/huxley/CE9/E-EProl.html)
-
+Huxley, T. H. _Evolution and Ethics_. Appleton, 1916, pp. 1–45.     
+1\. [_Prolegomena to Evolution and Ethics, 1894_](http://aleph0.clarku.edu/huxley/CE9/E-EProl.html)  
 2\. [_Brief biography of THH_](http://elvers.us/hop/person.asp?key=73)
 
 3\. [_T. H. Huxley and his times_](http://aleph0.clarku.edu/huxley/)
@@ -778,22 +577,13 @@ Huxley, T. H. _Evolution and Ethics_. Appleton, 1916, pp. 1–45.
 
 5\. _In Section 10 (pp. 26–30), Huxley expands on the human condition as one in which humans carry within themselves the seeds of their own destruction. Does this view share anything with the view of Voltaire in Candide? How is Huxley's view different from that of Voltaire?_
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 H. G. Wells, _The Time Machine_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-1\. [_The Time Machine_](http://www.bartleby.com/1000/)
-
+1\. [_The Time Machine_](http://www.bartleby.com/1000/)   
 2\. [_Short biography of Wells_](http://spartacus-educational.com/Jwells.htm)
 
 3\. [_The concept of homeostasis_](http://pespmc1.vub.ac.be/HOMEOSTA.html)
@@ -812,21 +602,10 @@ H. G. Wells, _The Time Machine_.
 
 4\. _Does Wells's novel reflect any of the problems of Huxley's Evolution and Ethics?_
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23–26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 William Gibson, _Neuromancer_.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 1\. [Study Guide for William Gibson: _Neuromancer_ (1984)](http://project.cyberpunk.ru/idb/neuromancer_study_guide.html)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
