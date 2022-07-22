@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 14: Darwin's \"The Descent of Man\" (1871)\u200F and Human Culture"
 uid: e715d52b-e8c7-67bb-e2f1-1dd53379e936
 video_files:
@@ -27,3 +39,4 @@ video_metadata:
 9.  Paleoanthropology
 
 **Instructor:** Prof. James Paradis
+

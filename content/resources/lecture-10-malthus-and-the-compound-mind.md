@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Malthus and the Compound Mind'
 uid: 930a650e-a8ea-7064-d715-5ffa85cf536f
 video_files:
@@ -20,3 +32,4 @@ video_metadata:
 2.  Darwin's voyage
 
 **Instructor:** Prof. James Paradis
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: William Paley and his Legacy'
 uid: 52897be7-f9e1-4a9f-b4ce-2b2ad9814020
 video_files:
@@ -27,3 +39,4 @@ video_metadata:
 9.  Great chain of Being
 
 **Instructor:** Prof. James Paradis
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Darwin and the Economy of the Natural World'
 uid: 84a83443-142d-114c-5d73-30fcad679024
 video_files:
@@ -30,3 +42,4 @@ video_metadata:
 12.  Selection
 
 **Instructor:** Prof. James Paradis
+

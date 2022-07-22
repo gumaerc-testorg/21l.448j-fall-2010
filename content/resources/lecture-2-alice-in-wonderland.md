@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Alice in Wonderland'
 uid: a581bda0-9b0a-37b3-326a-cf3ec69e803a
 video_files:
@@ -22,3 +34,4 @@ video_metadata:
 4.  Rules, Identity, Metamorphosis in Alice in Wonderland
 
 **Instructor:** Prof. James Paradis
+

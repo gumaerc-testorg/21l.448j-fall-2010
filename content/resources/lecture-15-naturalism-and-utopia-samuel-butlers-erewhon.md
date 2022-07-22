@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Naturalism and Utopia: Samuel Butler''s "Erewhon"'
 uid: d2e5cc58-e7bc-5660-7ec0-d55c5f42bfe5
 video_files:
@@ -26,3 +38,4 @@ video_metadata:
 8.  Satire
 
 **Instructor:** Prof. James Paradis
+

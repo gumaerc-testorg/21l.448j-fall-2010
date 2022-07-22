@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: T. H. Huxley and the Two States'
 uid: adceacdd-632f-9c80-22d2-256b3f4241ad
 video_files:
@@ -26,3 +38,4 @@ video_metadata:
 8.  Yan Fu
 
 **Instructor:** Prof. James Paradis
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Adam Smith "Wealth of Nations" (1776): The Idea of an Oeconomy'
 uid: 94ebf57a-fc90-fed4-7896-62ee4074ca07
 video_files:
@@ -25,3 +37,4 @@ video_metadata:
 7.  Rise of towns
 
 **Instructor:** Prof. James Paradis
+
