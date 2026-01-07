@@ -13,17 +13,17 @@ The materials in this course offer a mixture of discursive and narrative texts d
 
 ### Textbooks
 
-Carroll, L. *Alice's Adventures in Wonderland*. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with {{% resource_link "469cb93f-dc22-4a9b-99da-b944a11e3b76" "Google Books" %}}\]
+Carroll, L. *Alice's Adventures in Wonderland*. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with [Google Books](http://books.google.com/books?id=HJ8Wg0u7CUgC&pg=PP1#v=onepage)\]
 
 Hume, D. *Dialogues Concerning Natural Religion*. Penguin, 1990. ISBN: 9780140445367.
 
-Voltaire. *Candide*. Prestwick House, Inc., 2006. ISBN: 9781580491624. \[Preview with {{% resource_link "b334d932-0579-4486-a92e-9d8925f19dd9" "Google Books" %}}\]
+Voltaire. *Candide*. Prestwick House, Inc., 2006. ISBN: 9781580491624. \[Preview with [Google Books](http://books.google.com/books?id=1_ym4uzBlwAC&pg=PP1#v=onepage)\]
 
 Smith, A. *The Wealth of Nations*. CreateSpace, 2009. ISBN: 9781442147928.
 
 Malthus, T. *An Essay on the Principle of Population*. Oxford University Press, 2008. ISBN: 9780199540457.
 
-Darwin, C. *On the Origin of Species*. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with {{% resource_link "6c2a5736-a472-46c6-855a-e62e81d2f2b5" "Google Books" %}}\]
+Darwin, C. *On the Origin of Species*. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with [Google Books](http://books.google.com/books?id=8iCFDk51b70C&pg=PAfrontcover#v=onepage)\]
 
 Butler, S. *Erewhon*. IndyPublish, 2008. ISBN: 9781437833966.
 
@@ -31,7 +31,7 @@ Stevenson, R. L. *The Strange Case of Dr. Jekyll and Mr. Hyde*. W. W. Norton & C
 
 Wells, H. G. *The Time Machine*. CreateSpace, 2009. ISBN: 9781442146327.
 
-![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. *God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion*. MIT Press, 1966. ISBN: 9780262730112. \[Preview with {{% resource_link "f7c6a6e2-8c07-491d-acd5-5c3adf010e7f" "Google Books" %}}\]
+![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. *God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion*. MIT Press, 1966. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]
 
 Gibson, W. *Neuromancer*. Ace Hardcover, 2004. ISBN: 9780441012039.
 
@@ -61,12 +61,12 @@ READINGS
 Introduction: Wordsworth's *Tintern Abbey* and the idea of design in nature.
 {{< tdclose >}}{{< tdopen >}}
 
-1\. *Wordsworth's "*{{% resource_link "1a04fe6d-8c39-493c-ade9-116d1ec1d521" "*Lines composed a few miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798*" %}}*", with an excellent commentary and additional images*         
-2\. {{% resource_link "0eb4efbf-3c20-4d03-b50f-26ff8f16abca" "*Some background on travel, tourism and Wordsworth's poem*" %}}         
-3\. {{% resource_link "8c3fc947-782f-4e69-b99d-624fb5712879" "*Design, the adaptation of means to ends*" %}}*, is a hard concept to pin down, given its many contexts. Here are some dictionary definitions and other discussions*         
-4\. {{% resource_link "72d85752-7128-4f35-8356-11d16fdc213a" "*A useful Wikipedia segment on design*" %}}
+1\. *Wordsworth's "*[*Lines composed a few miles above Tintern Abbey, on Revisiting the Banks of the Wye during a Tour, July 13, 1798*](http://www.gradesaver.com/wordsworths-poetical-works/study-guide/section5/)*", with an excellent commentary and additional images*         
+2\. [*Some background on travel, tourism and Wordsworth's poem*](http://www.wwnorton.com/college/english/nael/romantic/topic_1/welcome.htm)         
+3\. [*Design, the adaptation of means to ends*](http://www.answers.com/topic/design?cat=biz-fin)*, is a hard concept to pin down, given its many contexts. Here are some dictionary definitions and other discussions*         
+4\. [*A useful Wikipedia segment on design*](http://en.wikipedia.org/wiki/Design)
 
-5\. *Poet Robert Frost's poem titled "*{{% resource_link "2c4a732f-7d4e-48b5-852a-e7bd32be41f2" "*Design*" %}}*." How do his ideas of design in nature compare with Wordsworth's?*
+5\. *Poet Robert Frost's poem titled "*[*Design*](http://www.starve.org/teaching/intro-poetry/design.html)*." How do his ideas of design in nature compare with Wordsworth's?*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -74,9 +74,9 @@ Introduction: Wordsworth's *Tintern Abbey* and the idea of design in nature.
 Carroll, *Alice's Adventures in Wonderland*. The fantasy world of anti–design.
 {{< tdclose >}}{{< tdopen >}}
 
-Carroll, L. Chapters 1–5, 7–9 and 11–12 in *Alice's Adventures in Wonderland*. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with {{% resource_link "469cb93f-dc22-4a9b-99da-b944a11e3b76" "Google Books" %}}\]          
+Carroll, L. Chapters 1–5, 7–9 and 11–12 in *Alice's Adventures in Wonderland*. Broadview Press, 2000. ISBN: 9781551112237. \[Preview with [Google Books](http://books.google.com/books?id=HJ8Wg0u7CUgC&pg=PP1#v=onepage)\]          
           
-1\. *Carroll's* {{% resource_link "7c0d63a2-0bf8-48f9-b8e0-32f34ebfb350" "*Alice's Adventures in Wonderland*" %}}
+1\. *Carroll's* [*Alice's Adventures in Wonderland*](http://www.alice-in-wonderland.net/)
 
 ### Some reading topics
 
@@ -95,28 +95,28 @@ Carroll, L. Chapters 1–5, 7–9 and 11–12 in *Alice's Adventures in Wonderla
 {{< tdclose >}}{{< tdopen >}}
 
 *The Holy Bible: The Book of Genesis*. First 3 sections. St. Anthony Guild Press, 1948.           
-1\. {{% resource_link "0c3f975e-2c9e-4548-8b01-b611be8224a4" "*Genesis, from King James Bible*" %}}         
-2\. {{% resource_link "32b695d7-47a6-400b-b97e-da04d62be04c" "*World's creation myths*" %}}
+1\. [*Genesis, from King James Bible*](http://www.bartleby.com/108/01/)         
+2\. [*World's creation myths*](http://www.magictails.com/creationlinks.html)
 
-3\. {{% resource_link "c01e4c15-386d-40ca-ae9b-9080ad4459f6" "*Discussion of science and faith*" %}}
+3\. [*Discussion of science and faith*](http://www.biblemetaphors.com/metaphors7.html)
 
-4\. {{% resource_link "8d381a52-c503-4acb-8886-7641fd1d85be" "*Discussion of the creation from a religious perspective*" %}}
+4\. [*Discussion of the creation from a religious perspective*](http://www.answersingenesis.org/articles/am/v2/n3/science-or-the-bible)
 
 5\. *The Day—Age theory of creation*
 
-6\. {{% resource_link "dd826151-4968-425c-998a-bc56d7e61f7f" "*Excellent blog on broad speculative cosmological questions*" %}}
+6\. [*Excellent blog on broad speculative cosmological questions*](http://web.archive.org/web/20080421122327/http://woodside.blogs.com/cosmologycuriosity/cosmology/index.html)
 
 Aristotle. *Physics*. Book II. Oxford University Press, 2008. ISBN: 9780199540280.
 
-1\. {{% resource_link "473dff19-089e-4610-ad22-45be805c8fe4" "*Book II of Aristotle's Physics*" %}} 
+1\. [*Book II of Aristotle's Physics*](http://classics.mit.edu/Aristotle/physics.2.ii.html) 
 
-2\. {{% resource_link "ddf4c4bb-23ae-4616-bd03-7fdec74f9391" "*A brief discussion of Aristotle's Physics*" %}}
+2\. [*A brief discussion of Aristotle's Physics*](http://www.sparknotes.com/philosophy/aristotle/section3.rhtml)
 
-3\. {{% resource_link "1de258f1-7ec5-4fa8-8243-32cd430e1c6e" "*General background on Aristotle*" %}}
+3\. [*General background on Aristotle*](https://www.history.com/topics/ancient-greece/aristotle)
 
-4\. {{% resource_link "860c26d4-6d3d-4b52-8013-1d050e590976" "A review of the concept of teleology or purpose in nature" %}}
+4\. [A review of the concept of teleology or purpose in nature](http://en.wikipedia.org/wiki/Teleology#Anthropic_principle)
 
-5\. {{% resource_link "1fb5a98d-25ba-431c-8b92-57021970a8b1" "*This set of notes explores aspects of Aristotle's 4 causes in the framework of Ancient Greek thought*" %}}
+5\. [*This set of notes explores aspects of Aristotle's 4 causes in the framework of Ancient Greek thought*](http://faculty.washington.edu/smcohen/320/4causes.htm)
 
 ### Some reading topics
 
@@ -136,13 +136,13 @@ Aristotle. *Physics*. Book II. Oxford University Press, 2008. ISBN: 978019954028
 Voltaire, *Candide*. The Accidental World.
 {{< tdclose >}}{{< tdopen >}}
 
-Voltaire. Chapters 1–7, 13–21, and 25–30 in *Candide*. Prestwick House, Inc., 2006.  ISBN: 9781580491624. \[Preview with {{% resource_link "b334d932-0579-4486-a92e-9d8925f19dd9" "Google Books" %}}\]           
-1\. {{% resource_link "966cb4fe-3e7b-49d4-88bf-789cc1de93dc" "*Candide*" %}}        
-2\. {{% resource_link "2636b06a-1181-4667-acef-ca35236ec0f0" "*Notes on Candide*" %}}
+Voltaire. Chapters 1–7, 13–21, and 25–30 in *Candide*. Prestwick House, Inc., 2006.  ISBN: 9781580491624. \[Preview with [Google Books](http://books.google.com/books?id=1_ym4uzBlwAC&pg=PP1#v=onepage)\]           
+1\. [*Candide*](http://www.sondheimguide.com/Candide/novel.html)        
+2\. [*Notes on Candide*](http://www.jstor.org/stable/40244764)
 
-3\. {{% resource_link "c4022b5a-dba6-442b-af9f-124c79edac4b" "*An important design distinction between adaptationism and Panglossianism*" %}}
+3\. [*An important design distinction between adaptationism and Panglossianism*](http://www.everything2.com/index.pl?node_id=1428543)
 
-4\. {{% resource_link "5ddeb16a-be0b-4672-b2ad-a4e48c136c4c" "*A technical exploration of the meaning of \"Panglossian\" adaptation in evolutionary biology*" %}}
+4\. [*A technical exploration of the meaning of "Panglossian" adaptation in evolutionary biology*](http://lists.extropy.org/pipermail/paleopsych/2006-January/004847.html)
 
 ### Some reading topics
 
@@ -165,14 +165,14 @@ Hume, *Dialogues Concerning Natural Religion*: Three theories of world origins.
 {{< tdclose >}}{{< tdopen >}}
 
 Hume, D. *Dialogues Concerning Natural Religion*. Preface and Parts 1–5. Penguin, 1990. ISBN: 9780140445367.         
-1\. {{% resource_link "346d968b-d69b-4225-b4e5-d37300334512" "*Hume's Dialogues*" %}}        
-2\. {{% resource_link "687c2e4b-a980-4e94-9f24-acf34e631f8c" "*A comprehensive website on David Hume*" %}}*, with texts and excerpts of his main works*
+1\. [*Hume's Dialogues*](https://www3.nd.edu/~jspeaks/courses/mcgill/201/winter2005/Hume-Dialogues.html)        
+2\. [*A comprehensive website on David Hume*](https://davidhume.org/)*, with texts and excerpts of his main works*
 
-3\. {{% resource_link "3c26acac-ad98-47f6-bd8b-0e9ad9ad07a0" "*Hume's famous statement on miracles*" %}}
+3\. [*Hume's famous statement on miracles*](http://www.fordham.edu/halsall/mod/hume-miracles.html)
 
-4\. {{% resource_link "99a704ab-fc36-424e-8e8e-da258047ba2f" "*Occam's razor*" %}}
+4\. [*Occam's razor*](http://pespmc1.vub.ac.be/OCCAMRAZ.html)
 
-5\. {{% resource_link "52322539-eda3-40ec-b990-fb55ea26502d" "*Naturalism as a world view*" %}}
+5\. [*Naturalism as a world view*](http://www.naturalism.org/)
 
 ### Some reading topics
 
@@ -215,20 +215,20 @@ Paley, *Natural Theology*: Intelligent Design Theory.
 {{< tdclose >}}{{< tdopen >}}
 
 Paley, W. *Natural Theology*. Oxford University Press, 2008, pp. 5–15, 22, 26–27, and 35–44. ISBN: 9780199535750.           
-1\. {{% resource_link "575fdf3e-c470-4fa6-8210-f3ba2804d440" "*Paley's Natural Theology*" %}}        
-2\. {{% resource_link "95830a38-4ea9-493e-be6e-93b450e8b389" "*William Paley—general background*" %}}
+1\. [*Paley's Natural Theology*](http://tinyurl.com/yhb6geq)        
+2\. [*William Paley—general background*](https://www.britannica.com/biography/William-Paley)
 
-3\. {{% resource_link "5120d474-dfd2-4c90-b109-e56b25e191c0" "*A major pro–intelligent design website*" %}}
+3\. [*A major pro–intelligent design website*](http://www.intelligentdesignnetwork.org/)
 
-4\. {{% resource_link "33a37386-a1f6-4e91-9862-9d5de039f38e" "*A thorough but skeptical review of intelligent design arguments*" %}}
+4\. [*A thorough but skeptical review of intelligent design arguments*](http://skepdic.com/intelligentdesign.html)
 
-5\. {{% resource_link "9d46d726-6d17-46a7-987f-b0f9eecaa097" "*Wikipedia survey of Intelligent design arguments*" %}}
+5\. [*Wikipedia survey of Intelligent design arguments*](http://en.wikipedia.org/wiki/Intelligent_design)
 
-6\. {{% resource_link "0b229273-7408-4258-8fd5-76538c53673d" "*A New Yorker article on intelligent design*" %}}
+6\. [*A New Yorker article on intelligent design*](http://www.newyorker.com/archive/2005/05/30/050530fa_fact)
 
-7\. {{% resource_link "c63c2247-cf0c-4fb3-8fbc-f40c940e653a" "*An evolutionary account of the development of the bacterial flagellum, previously thought irreducibly complex*" %}}
+7\. [*An evolutionary account of the development of the bacterial flagellum, previously thought irreducibly complex*](http://sciencenow.sciencemag.org/cgi/content/full/2007/417/3)
 
-8\. {{% resource_link "90576017-2c7f-43ae-8d57-d7fecc21493a" "*A Primer on the Anthropic Principle*" %}}
+8\. [*A Primer on the Anthropic Principle*](http://www.anthropic-principle.com/primer.html)
 
 ### Some reading topics
 
@@ -249,10 +249,10 @@ Adam Smith, *Wealth of Nations*: Self–Organized Complexity?
 {{< tdclose >}}{{< tdopen >}}
 
 Smith, A. Book 1, Chapters 1–3; Book 3, Chapter 4 in *The Wealth of Nations*. CreateSpace, 2009. ISBN: 9781442147928.           
-1\. {{% resource_link "e764da57-781d-4a50-b698-0d3b692431aa" "*Adam Smith's Wealth of Nations*" %}}        
-2\. {{% resource_link "e7e1f0bb-3e22-4611-8f33-7e196e0e55d7" "*Economics as an expression of evolutionary principles*" %}}
+1\. [*Adam Smith's Wealth of Nations*](http://www.econlib.org/library/Smith/smWN.html)        
+2\. [*Economics as an expression of evolutionary principles*](http://www.themeister.co.uk/economics/evolutionary_economics.htm)
 
-3\. {{% resource_link "d26ebfb9-8a27-4809-a290-984547dd8282" "*Short discussion by Helen Joyce of Smith's invisible hand theory*" %}}
+3\. [*Short discussion by Helen Joyce of Smith's invisible hand theory*](http://plus.maths.org/issue14/features/smith/)
 
 ### Some reading topics
 
@@ -275,22 +275,22 @@ Malthus, *An Essay on the Principle of Population*: Compound Interest in the bio
 {{< tdclose >}}{{< tdopen >}}
 
 Malthus, T. Preface, Chapters 1–3, and 9 in *An Essay on the Principle of Population*. Oxford University Press, 2008. ISBN: 9780199540457.           
-1. {{% resource_link "c2ed3d14-2866-4806-89b2-15f19c3f900d" "*Principle of Population*" %}}        
-2\. {{% resource_link "3bbbc615-db06-40d6-a569-4441d6311004" "*A brief but useful website for understanding Thomas Malthus*" %}}
+1. [*Principle of Population*](http://www.econlib.org/Library/Malthus/malPop.html)        
+2\. [*A brief but useful website for understanding Thomas Malthus*](http://desip.igc.org/malthus/)
 
-3\. {{% resource_link "46e36f92-d1bb-485c-a248-0ebe9f741f15" "*A real–time world population counter*" %}}
+3\. [*A real–time world population counter*](http://www.worldpopulationbalance.org/)
 
-4\. {{% resource_link "9f1e669d-799d-4e32-bcf7-f21719da417a" "*A real–time worldometer*" %}}
+4\. [*A real–time worldometer*](http://www.worldometers.info/)
 
-5\. {{% resource_link "7cf9ef6e-07f7-4fd4-a733-8197d8e25982" "*Another excellent website on Thomas Malthus*" %}}
+5\. [*Another excellent website on Thomas Malthus*](https://ucmp.berkeley.edu/history/malthus.html)
 
-6\. {{% resource_link "9fa2cee1-9e11-4007-b2cb-6f95022135e5" "*This website explores the powerful effects of exponentialist phenomena*" %}}
+6\. [*This website explores the powerful effects of exponentialist phenomena*](https://web.archive.org/web/20240327194502/https://members.optusnet.com.au/exponentialist/The_Scales_Of_70.htm)
 
-7\. {{% resource_link "eb44f442-55f4-4330-8a9a-fd2ba81c39b9" "*This page explains the idea of exponential growth, using the Rule of 70 approach*" %}}
+7\. [*This page explains the idea of exponential growth, using the Rule of 70 approach*](http://www.ecofuture.org/pop/facts/exponential70.html)
 
-8\. {{% resource_link "366115c0-4b48-4634-bfbe-f3de51645ab6" "*A modified Malthusian growth model for populations*" %}}
+8\. [*A modified Malthusian growth model for populations*](http://academia.wikia.com/wiki/Couttsian_Growth_Model)
 
-9\. {{% resource_link "cbafaa91-cf05-4972-a72a-5c2762aa52e8" "*Voluntary human extinction movement*" %}}
+9\. [*Voluntary human extinction movement*](http://www.vhemt.org/)
 
 ### Some reading topics for Malthus's An Essay on the Principle of Population
 
@@ -324,17 +324,17 @@ Malthus, T. Chapters 13–14, and 18–19 in *An Essay on the Principle of Popul
 Darwin, *On the Origin of Species*.
 {{< tdclose >}}{{< tdopen >}}
 
-Darwin, C. Chapters 1, 2 and 3 in *On the Origin of Species*. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with {{% resource_link "af1f0ae6-3bfa-47f0-8efa-deab226331fc" "Google Books" %}}\]           
-1\. {{% resource_link "68ee3591-c397-442b-a4e2-3a0f12f6b82e" "*Charles Darwin, On the Origin of Species*" %}}        
-2\. {{% resource_link "0c80cff7-5b04-4ffc-b6db-9e7bedeb9303" "*Excellent short biographical sketch of Darwin*" %}}
+Darwin, C. Chapters 1, 2 and 3 in *On the Origin of Species*. Greenwood Press, 2006. ISBN: 9780313317484. \[Preview with [Google Books](http://books.google.com/books?id=8iCFDk51b70C&pg=PA1#v=onepage)\]           
+1\. [*Charles Darwin, On the Origin of Species*](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)        
+2\. [*Excellent short biographical sketch of Darwin*](http://www.biography.com/people/charles-darwin-9266433#death-and-legacy)
 
-3\. {{% resource_link "2a071916-4ce0-4931-ab67-26c247296f82" "*The Complete Work of Charles Darwin Online*" %}}
+3\. [*The Complete Work of Charles Darwin Online*](http://darwin-online.org.uk/)
 
-4\. {{% resource_link "ef68a7ce-bff7-47af-a4cb-55327d4e59b7" "*Biology and Evolutionary Theory*" %}}
+4\. [*Biology and Evolutionary Theory*](http://www.talkorigins.org/origins/faqs-evolution.html)
 
-5\. {{% resource_link "94b4a1d8-7906-4965-8c31-412555b08136" "*Summary of Lamarckian evolution*" %}}
+5\. [*Summary of Lamarckian evolution*](http://www.ucmp.berkeley.edu/history/lamarck.html)
 
-6\. {{% resource_link "e6a4f0b5-4b6a-4e56-8c62-872e7877c08b" "*Speciation*" %}}
+6\. [*Speciation*](https://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527/)
 
 ### Some reading questions
 
@@ -355,7 +355,7 @@ Darwin, *Origin* (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
 Darwin, C. Chapters 4 and 5 in *On the Origin of Species*. Greenwood Press, 2006. ISBN: 9780313317484.           
-1\. {{% resource_link "2312a67b-6068-43c5-bd6a-4f5c1ea6e90a" "*Sexual selection*" %}}
+1\. [*Sexual selection*](http://www.stanford.edu/group/stanfordbirds/text/essays/Sexual_Selection.html)
 
 ### Some reading topics
 
@@ -375,9 +375,9 @@ Darwin, C. Chapters 4 and 5 in *On the Origin of Species*. Greenwood Press, 2006
 Darwin, *Origin* (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
-1\. {{% resource_link "29d0b5a9-3284-4a0c-8c53-d3ccc3be754f" "*Darwin's taxonomy chart in the Origin*" %}}           
+1\. [*Darwin's taxonomy chart in the Origin*](http://tinyurl.com/52v6dn)           
 *Chapter 7 (Instinct), Chapter 10 (Geological Succession, Appearance of New Species, Disappearance of Species), Chapter 13 (The Natural System, Morphology, Embryology), Chapter 14 (Summary). \[CD\]*         
-2\. {{% resource_link "2a2eb07b-48bf-427c-9583-154a530b6c07" "*An excellent summary of geological periods illustrating the extreme age of the earth*" %}}
+2\. [*An excellent summary of geological periods illustrating the extreme age of the earth*](http://universe-review.ca/R10-19-animals.htm)
 
 ### Some reading topics:
 
@@ -396,10 +396,10 @@ Darwin, *Descent of Man* (selections)
 {{< tdclose >}}{{< tdopen >}}
 
 Darwin, C. Chapter 1 in *The Descent of Man*. CreateSpace, 2010. ISBN: 9781450520393.           
-1\. {{% resource_link "0c5747c7-9bc1-4bf6-8396-ff88f5586906" "*Descent of Man, 2nd edition (1874)*" %}}        
+1\. [*Descent of Man, 2nd edition (1874)*](http://psychclassics.yorku.ca/Darwin/Descent/descent1.htm)        
 2\. *Films and illustrations of various prehistoric and modern hominoid forms*
 
-3\. *Prehistoric fiction* ({{% resource_link "ac7fd338-d2b6-4fd6-bfe5-faa8c338fc56" "Websites" %}}, {{% resource_link "a6cce5ef-e971-4e5d-bae5-496be6b5b50b" "bibliography" %}})
+3\. *Prehistoric fiction* ([Websites](http://www.trussel.com/f_prehis.htm#Types), [bibliography](http://www.trussel.com/prehist/prehist1.htm))
 
 ### Some reading questions
 
@@ -414,16 +414,16 @@ Butler, *Erewhon* or *Over the Range*.
 {{< tdclose >}}{{< tdopen >}}
 
 Butler, S. Chapters 1, 7, 9–12, 15, and 17 in *Erewhon*. Indypublish, 2008. ISBN: 9781437833966.           
-1\. {{% resource_link "8ebb846a-382b-4ab4-a9a2-efa7a15ad10b" "*Utopias in America*" %}}        
-2\. {{% resource_link "17790e89-018e-49be-9d87-de437190d13c" "*Utopia*" %}}
+1\. [*Utopias in America*](https://www.nps.gov/articles/utopias-in-america.htm)        
+2\. [*Utopia*](http://en.wikipedia.org/wiki/Utopia)
 
-3\. {{% resource_link "3bc12f98-2ac7-4d97-994f-d9610fc5c527" "*The question of social Darwinism. Was Darwin a social Darwinist? Was Butler*" %}}*?*
+3\. [*The question of social Darwinism. Was Darwin a social Darwinist? Was Butler*](http://wikis.evergreen.edu/civicintelligence/index.php/Social_Darwinism)*?*
 
-4\. {{% resource_link "feb44a80-e872-44b5-995d-b410001f93bc" "*Exploration of the literary notion of satire*" %}}.
+4\. [*Exploration of the literary notion of satire*](http://www.answers.com/topic/satire).
 
-5\. {{% resource_link "08e4a6aa-e0c7-40ee-b2f4-ea22ec653155" "*Image archive about eugenics in America*" %}}
+5\. [*Image archive about eugenics in America*](http://www.eugenicsarchive.org/eugenics/list3.pl)
 
-6\. {{% resource_link "486749ec-9215-4873-a39f-f774c5a1fb1d" "*Evolutionary art (PDF - 5.12MB)*" %}}
+6\. [*Evolutionary art (PDF - 5.12MB)*](http://www.cs.bham.ac.uk/~rjh/courses/NatureInspiredDesign/2009-10/StudentWork/Group4/EvoArt.pdf)
 
 ### Some reading topics
 
@@ -444,8 +444,8 @@ Butler, *Erewhon* (cont.)
 {{< tdclose >}}{{< tdopen >}}
 
 Butler, S. Chapters 23–25 in *Erewhon*. IndyPublish, 2008. ISBN: 9781437833966.           
-1\. {{% resource_link "f36b6f68-d1fa-49fa-92ea-756dfcf5e553" "*The evolution of machines: The golem project for the automatic design and manufacture of life forms*" %}}        
-2\. {{% resource_link "bdbb346d-f4cf-46b9-bc70-996831e640b8" "*Self–replicating robots*" %}}
+1\. [*The evolution of machines: The golem project for the automatic design and manufacture of life forms*](http://www.demo.cs.brandeis.edu/golem/)        
+2\. [*Self–replicating robots*](http://web.archive.org/web/20120710154517/http://www.jyi.org/news/nb.php?id=369)
 
 3\. *On the concept of evolutionary robotics*
 
@@ -467,25 +467,25 @@ Butler, S. Chapters 23–25 in *Erewhon*. IndyPublish, 2008. ISBN: 9781437833966
 Wiener, *God and Golem, Inc.* (selections)
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. *God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion*. MIT Press, 1966, pp. 1–69. ISBN: 9780262730112. \[Preview with {{% resource_link "f7c6a6e2-8c07-491d-acd5-5c3adf010e7f" "Google Books" %}}\]           
-1\. {{% resource_link "dc0a7076-fed5-4cb4-b159-9c55d876d1e3" "*Photos of Norbert Wiener*" %}}        
-2\. {{% resource_link "c608814f-e51d-4a88-979c-3908a763294c" "*Short article on Wiener*" %}}.
+![Buy at MIT Press](/images/mp_logo.gif) Wiener, N. *God and Golem, Inc.: A Comment on Certain Points where Cybernetics Impinges on Religion*. MIT Press, 1966, pp. 1–69. ISBN: 9780262730112. \[Preview with [Google Books](http://books.google.com/books?id=yLiSM41pHOwC&pg=PAfrontcover#v=onepage)\]           
+1\. [*Photos of Norbert Wiener*](https://www.norbertwiener.umd.edu/NW/NWphotos.html)        
+2\. [*Short article on Wiener*](http://www.britannica.com/eb/article-9076934/Norbert-Wiener).
 
-3\. {{% resource_link "db264e55-c614-4ed4-a9b3-cf819dbf3e54" "*Definition of Cybernetics*" %}}
+3\. [*Definition of Cybernetics*](http://www.pangaro.com/published/cyber-macmillan.html)
 
-4\. {{% resource_link "00ee041e-2744-43d2-b202-c2a71bf36fec" "*Evolutionary systems and artificial life*" %}}.
+4\. [*Evolutionary systems and artificial life*](https://casci.binghamton.edu/publications/ps/lecnotes.pdf).
 
-5\. {{% resource_link "256d962a-0af5-454e-ad18-9dcbd379a779" "*Cybernetic ethics*" %}}.
+5\. [*Cybernetic ethics*](http://www.evolutionaryethics.com/).
 
-6\. {{% resource_link "2f0ec5c8-5b49-480b-a40e-31a56b87f359" "*A brief history of automatons*" %}}.
+6\. [*A brief history of automatons*](http://www.automates-boites-musique.com/).
 
-7\. {{% resource_link "0cbd10f7-e9b4-421b-9223-6a362a781273" "*Concept of the Golem*" %}}
+7\. [*Concept of the Golem*](http://www.jewishvirtuallibrary.org/jsource/Judaism/Golem.html)
 
-8\. {{% resource_link "f36b6f68-d1fa-49fa-92ea-756dfcf5e553" "*The golem automatic machine project*" %}}
+8\. [*The golem automatic machine project*](http://www.demo.cs.brandeis.edu/golem/)
 
 9\. *Translation of Johann Wolfgang von Goethe's poem, "The Sorcerer's Apprentice"*
 
-10\. {{% resource_link "33447ce0-9cb3-476e-adf8-0d88fb23e752" "*A useful thread about Baldwinian evolution compared to Lamarckian evolution*" %}}
+10\. [*A useful thread about Baldwinian evolution compared to Lamarckian evolution*](http://users.ecs.soton.ac.uk/harnad/Hypermail/Cognition.Sociobiology.98/0100.html)
 
 ### *Some reading topics*
 
@@ -505,18 +505,18 @@ Wiener, *God and Golem, Inc.* (selections)
 Turing and Searle Essays on computers and evolutionary issues.
 {{< tdclose >}}{{< tdopen >}}
 
-1\. *Online version of Turing's key Mind paper*, "{{% resource_link "b02def94-adb9-438b-b553-3fabf83110d0" "Computing Machinery and Intelligence" %}}"         
-2\. {{% resource_link "87f85641-5ae2-46b2-96bf-2bf5943a538a" "*A short biography of Alan Turing*" %}}
+1\. *Online version of Turing's key Mind paper*, "[Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)"         
+2\. [*A short biography of Alan Turing*](http://www.turing.org.uk/bio/index.html)
 
-3\. {{% resource_link "793372f1-d8f4-4e34-b7cb-0248defe5b00" "*John Searle's paper, \"Minds, Brains, and Programs\"*" %}}
+3\. [*John Searle's paper, "Minds, Brains, and Programs"*](http://dx.doi.org/10.1017/S0140525X00005756)
 
-4\. {{% resource_link "22f17af1-64b4-4cb3-bd11-e2fd196787d5" "*John Searle's paper \"What is Consciousness?\"*" %}}
+4\. [*John Searle's paper "What is Consciousness?"*](http://human-brain.org/searle.html)
 
-5\. {{% resource_link "ef053d3c-ed9f-4337-96cc-20200c4b0849" "*Critique of Searle's Chinese Room thought problem*" %}}
+5\. [*Critique of Searle's Chinese Room thought problem*](http://www.consciousentities.com/searle.htm)
 
-6\. {{% resource_link "caafc2ea-0c3c-4bd9-9a38-f14cb22aa4c3" "*Machine learning*" %}}
+6\. [*Machine learning*](http://www.aaai.org/ojs/index.php/aimagazine/article/view/406)
 
-7\. {{% resource_link "465d86da-4ab6-4d54-8c24-e960cbc3eda2" "*Discussion on autonomous agents*" %}}
+7\. [*Discussion on autonomous agents*](http://www.cs.memphis.edu/~franklin/AgentProg.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -524,15 +524,15 @@ Turing and Searle Essays on computers and evolutionary issues.
 Stevenson, *The Strange Case of Dr. Jekyll and Mr. Hyde*.
 {{< tdclose >}}{{< tdopen >}}
 
-1\. {{% resource_link "ff761ac3-2c59-470c-b757-6ab503abaf45" "*Stevenson's book*" %}}    
+1\. [*Stevenson's book*](https://www.gutenberg.org/files/43/43-h/43-h.htm)    
 
-2\. {{% resource_link "18c1fe51-1ad4-4446-a728-16d3ee788aca" "*An excellent centenary exhibition and brief summary of Stevenson's life given at the university of South Carolina*" %}}*. See especially Island 6 of the exhibition, which deals with J&H*
+2\. [*An excellent centenary exhibition and brief summary of Stevenson's life given at the university of South Carolina*](http://www.sc.edu/library/spcoll/britlit/rls/rls1.html)*. See especially Island 6 of the exhibition, which deals with J&H*
 
-*3.* {{% resource_link "107b8f0b-55f5-4a0a-96e9-ca99a5bd52bd" "*Concepts of degeneration*" %}}
+*3.* [*Concepts of degeneration*](http://www.answers.com/topic/degeneration?cat=health)
 
-4\. {{% resource_link "50e18ff3-1d81-47b4-ba3f-aff16c9d1c7c" "*Section on reversion from Darwin's Variation of Animals and Plants under Domestication*" %}}
+4\. [*Section on reversion from Darwin's Variation of Animals and Plants under Domestication*](http://tinyurl.com/yazg87v)
 
-5\. {{% resource_link "61b46b8f-87cd-4620-bc87-fa05aa41e8a1" "*Atavism in science and popular literature*" %}}
+5\. [*Atavism in science and popular literature*](http://www.cerebromente.org.br/n09/fastfacts/atavismo_i.htm)
 
 ### Some reading topics
 
@@ -553,14 +553,14 @@ Huxley, *Prolegomena to Evolution and Ethics*.
 {{< tdclose >}}{{< tdopen >}}
 
 Huxley, T. H. *Evolution and Ethics*. Appleton, 1916, pp. 1–45.           
-1\. {{% resource_link "4e95ed68-a60a-40bb-b34c-a787f793c920" "*Prolegomena to Evolution and Ethics, 1894*" %}}        
+1\. [*Prolegomena to Evolution and Ethics, 1894*](http://aleph0.clarku.edu/huxley/CE9/E-EProl.html)        
 2\. *Brief biography of THH*
 
-3\. {{% resource_link "b20fda23-61c7-4cbd-bda3-e9f78e94c926" "*T. H. Huxley and his times*" %}}
+3\. [*T. H. Huxley and his times*](http://aleph0.clarku.edu/huxley/)
 
-4\. {{% resource_link "e0d09c9b-2a99-4174-aa9a-691631899c62" "*Modern perspective on evolutionary ethics as a natural phenomenon*" %}}
+4\. [*Modern perspective on evolutionary ethics as a natural phenomenon*](http://pespmc1.vub.ac.be/ETHICS.html)
 
-5\. {{% resource_link "c256e3be-416f-41d5-a360-f8f4ea397e3c" "*Exploration of the naturalistic fallacy*" %}}
+5\. [*Exploration of the naturalistic fallacy*](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 
 ### Some reading topics
 
@@ -580,14 +580,14 @@ Huxley, T. H. *Evolution and Ethics*. Appleton, 1916, pp. 1–45.       �
 H. G. Wells, *The Time Machine*.
 {{< tdclose >}}{{< tdopen >}}
 
-1\. {{% resource_link "d79f8a96-c71d-4027-95b7-b4e4d7e44711" "*The Time Machine*" %}}         
-2\. {{% resource_link "ff30fa2b-bc36-4866-9243-ae7be3151139" "*Short biography of Wells*" %}}
+1\. [*The Time Machine*](http://www.bartleby.com/1000/)         
+2\. [*Short biography of Wells*](http://spartacus-educational.com/Jwells.htm)
 
-3\. {{% resource_link "834fa603-c0b9-4d21-aeff-46d927cbb46a" "*The concept of homeostasis*" %}}
+3\. [*The concept of homeostasis*](http://pespmc1.vub.ac.be/HOMEOSTA.html)
 
-4\. {{% resource_link "f8a382b8-e758-4b21-9024-5209cc11be34" "*NOVA site on time travel*" %}}
+4\. [*NOVA site on time travel*](http://www.pbs.org/wgbh/nova/time/)
 
-5\. {{% resource_link "710d39ef-9e74-4eed-84c4-86769a84c6c9" "*BLTC Research*" %}}
+5\. [*BLTC Research*](https://www.bltc.com/)
 
 ### Some Reading Topics
 
@@ -604,5 +604,5 @@ H. G. Wells, *The Time Machine*.
 {{< tdclose >}}{{< tdopen >}}
 William Gibson, *Neuromancer*.
 {{< tdclose >}}{{< tdopen >}}
-1\. {{% resource_link "3ddd7af3-5686-4b58-8d18-30bc10229fe7" "Study Guide for William Gibson: *Neuromancer* (1984)" %}}
+1\. [Study Guide for William Gibson: *Neuromancer* (1984)](http://project.cyberpunk.ru/idb/neuromancer_study_guide.html)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
